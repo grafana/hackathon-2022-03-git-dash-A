@@ -28,26 +28,6 @@
   "liveNow": false,
   "panels": [
     {
-      "datasource": {
-        "type": "testdata",
-        "uid": "PD8C576611E62080A"
-      },
-      "gridPos": {
-        "h": 9,
-        "w": 12,
-        "x": 0,
-        "y": 0
-      },
-      "id": 4,
-      "options": {
-        "content": "# AAAAAAAAAAAAAAAAAAAAA\n\nSource from\n\nhttps://github.com/grafana/hackathon-2022-03-git-dash-A",
-        "mode": "markdown"
-      },
-      "pluginVersion": "8.5.0-pre",
-      "title": "git the things",
-      "type": "text"
-    },
-    {
       "cards": {},
       "color": {
         "cardColor": "#b4ff00",
@@ -65,7 +45,7 @@
         "h": 9,
         "w": 12,
         "x": 0,
-        "y": 9
+        "y": 0
       },
       "heatmap": {},
       "hideZeroBuckets": false,
@@ -99,6 +79,26 @@
         "show": true
       },
       "yBucketBound": "auto"
+    },
+    {
+      "datasource": {
+        "type": "testdata",
+        "uid": "PD8C576611E62080A"
+      },
+      "gridPos": {
+        "h": 9,
+        "w": 12,
+        "x": 12,
+        "y": 0
+      },
+      "id": 4,
+      "options": {
+        "content": "# AAAAAAAAAAAAAAAAAAAAA\n\nSource from\n\nhttps://github.com/grafana/hackathon-2022-03-git-dash-A",
+        "mode": "markdown"
+      },
+      "pluginVersion": "8.5.0-pre",
+      "title": "git the things",
+      "type": "text"
     }
   ],
   "schemaVersion": 36,
@@ -108,7 +108,7 @@
     "list": []
   },
   "time": {
-    "from": "now-2d",
+    "from": "now-6h",
     "to": "now"
   },
   "timepicker": {},
