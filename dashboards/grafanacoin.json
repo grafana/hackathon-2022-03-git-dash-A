@@ -492,13 +492,13 @@
     "list": []
   },
   "time": {
-    "from": "2021-07-13T22:13:30.740Z",
-    "to": "2021-07-13T22:46:18.921Z"
+    "from": "now-12h",
+    "to": "now"
   },
   "timepicker": {},
   "timezone": "",
   "title": "Candlestick",
-  "uid": "dev-dashboards/panel-candlestick/candlestick",
+  "uid": "it-A/grafanacoin",
   "version": 2,
   "weekStart": ""
 }
