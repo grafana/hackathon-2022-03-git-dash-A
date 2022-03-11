@@ -112,12 +112,13 @@
     "list": []
   },
   "time": {
-    "from": "now-6h",
+    "from": "now-30m",
     "to": "now"
   },
   "timepicker": {},
   "timezone": "",
   "title": "New dashboard",
+  "uid": "it-A/asgasgas",
   "version": 0,
   "weekStart": ""
 }
