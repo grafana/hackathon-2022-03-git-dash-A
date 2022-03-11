@@ -497,8 +497,8 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Candlestick",
-  "uid": "dev-dashboards/panel-candlestick/candlestick",
+  "title": "Grafanacoin",
+  "uid": "it-A/grafanacoin",
   "version": 2,
   "weekStart": ""
 }
