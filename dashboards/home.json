@@ -32,76 +32,40 @@
         "type": "testdata",
         "uid": "PD8C576611E62080A"
       },
-      "fieldConfig": {
-        "defaults": {
-          "color": {
-            "mode": "palette-classic"
-          },
-          "custom": {
-            "axisLabel": "",
-            "axisPlacement": "auto",
-            "barAlignment": 0,
-            "drawStyle": "line",
-            "fillOpacity": 0,
-            "gradientMode": "none",
-            "hideFrom": {
-              "legend": false,
-              "tooltip": false,
-              "viz": false
-            },
-            "lineInterpolation": "linear",
-            "lineWidth": 1,
-            "pointSize": 5,
-            "scaleDistribution": {
-              "type": "linear"
-            },
-            "showPoints": "auto",
-            "spanNulls": false,
-            "stacking": {
-              "group": "A",
-              "mode": "none"
-            },
-            "thresholdsStyle": {
-              "mode": "off"
-            }
-          },
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "green",
-                "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
-              }
-            ]
-          }
-        },
-        "overrides": []
-      },
       "gridPos": {
-        "h": 9,
-        "w": 12,
+        "h": 20,
+        "w": 13,
         "x": 0,
         "y": 0
       },
-      "id": 2,
+      "id": 4,
       "options": {
-        "legend": {
-          "calcs": [],
-          "displayMode": "list",
-          "placement": "bottom"
-        },
-        "tooltip": {
-          "mode": "single",
-          "sort": "none"
-        }
+        "content": "Hello!   welcome page here",
+        "mode": "markdown"
       },
+      "pluginVersion": "8.5.0-pre",
       "title": "Panel Title",
-      "type": "timeseries"
+      "type": "text"
+    },
+    {
+      "datasource": {
+        "type": "testdata",
+        "uid": "PD8C576611E62080A"
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 11,
+        "x": 13,
+        "y": 0
+      },
+      "id": 6,
+      "options": {
+        "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n\n\n",
+        "mode": "markdown"
+      },
+      "pluginVersion": "8.5.0-pre",
+      "title": "Supported storage engines",
+      "type": "text"
     }
   ],
   "schemaVersion": 36,
@@ -116,7 +80,8 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Home",
+  "title": "Git the things",
+  "uid": "it-A/home",
   "version": 0,
   "weekStart": ""
 }
