@@ -40,8 +40,8 @@
       },
       "id": 4,
       "options": {
-        "content": "Hello!   welcome page here",
-        "mode": "markdown"
+        "content": "GIT the things\n\n\n\n<h3><a href=\"/g/\">Explore dashboards</a></h3>",
+        "mode": "html"
       },
       "pluginVersion": "8.5.0-pre",
       "title": "Panel Title",
@@ -68,6 +68,7 @@
       "type": "text"
     }
   ],
+  "refresh": "",
   "schemaVersion": 36,
   "style": "dark",
   "tags": [],
