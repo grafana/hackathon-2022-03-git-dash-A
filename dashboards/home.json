@@ -34,7 +34,7 @@
       },
       "gridPos": {
         "h": 20,
-        "w": 13,
+        "w": 12,
         "x": 0,
         "y": 0
       },
@@ -44,7 +44,6 @@
         "mode": "html"
       },
       "pluginVersion": "8.5.0-pre",
-      "title": "Panel Title",
       "type": "text"
     },
     {
@@ -54,17 +53,37 @@
       },
       "gridPos": {
         "h": 8,
-        "w": 11,
-        "x": 13,
+        "w": 12,
+        "x": 12,
         "y": 0
       },
       "id": 6,
       "options": {
-        "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n\n\n",
+        "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n* Local Filsystem (write to devenv!)\n\n\n",
         "mode": "markdown"
       },
       "pluginVersion": "8.5.0-pre",
       "title": "Supported storage engines",
+      "type": "text"
+    },
+    {
+      "datasource": {
+        "type": "testdata",
+        "uid": "PD8C576611E62080A"
+      },
+      "description": "",
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 12,
+        "y": 8
+      },
+      "id": 8,
+      "options": {
+        "content": "# FAQ\n\n1. What's left?\n\n2. Why do you have a different folder view?",
+        "mode": "markdown"
+      },
+      "pluginVersion": "8.5.0-pre",
       "type": "text"
     }
   ],
