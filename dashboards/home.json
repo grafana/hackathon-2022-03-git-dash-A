@@ -78,7 +78,7 @@
       },
       "id": 6,
       "options": {
-        "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n\n\n",
+        "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n* Local Storage (Add to devenv directly!)\n\n\n",
         "mode": "markdown"
       },
       "pluginVersion": "8.5.0-pre",
