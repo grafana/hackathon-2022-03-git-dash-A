@@ -33,18 +33,17 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 20,
-        "w": 13,
+        "h": 8,
+        "w": 12,
         "x": 0,
         "y": 0
       },
-      "id": 4,
+      "id": 8,
       "options": {
-        "content": "GIT the things\n\n\n\n<h3><a href=\"/g/\">Explore dashboards</a></h3>",
+        "content": "<img src=\"https://gogitit.online/lbimages/logo.png\" />",
         "mode": "html"
       },
       "pluginVersion": "8.5.0-pre",
-      "title": "Panel Title",
       "type": "text"
     },
     {
@@ -65,6 +64,25 @@
       },
       "pluginVersion": "8.5.0-pre",
       "title": "Supported storage engines",
+      "type": "text"
+    },
+    {
+      "datasource": {
+        "type": "testdata",
+        "uid": "PD8C576611E62080A"
+      },
+      "gridPos": {
+        "h": 20,
+        "w": 13,
+        "x": 0,
+        "y": 8
+      },
+      "id": 4,
+      "options": {
+        "content": "GIT the things\n\n\n\n<h3><a href=\"/g/\">Explore dashboards</a></h3>",
+        "mode": "html"
+      },
+      "pluginVersion": "8.5.0-pre",
       "type": "text"
     }
   ],
