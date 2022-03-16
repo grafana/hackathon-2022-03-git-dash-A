@@ -59,7 +59,7 @@
       },
       "id": 4,
       "options": {
-        "content": "GIT the things\n\n\n\n<h3><a href=\"/g/\">Explore dashboards</a></h3>\n\n<h2>Two Git Repos are used in the example</h2>\n<ul>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-A\">Repo A</a> is limited to PR Workflows</li>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-B\">Repo B</a> allows for saves/commits</li>\n</ul>\n",
+        "content": "GIT the things\n\n\n\n<h3><a href=\"/g/\">Explore dashboards</a></h3>\n\n<h4>Git Repos used in the examples:</h4>\n<ul>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-A\">Repo A</a> is limited to PR Workflows</li>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-B\">Repo B</a> allows for saves/commits</li>\n</ul>\n",
         "mode": "html"
       },
       "pluginVersion": "8.5.0-pre",
