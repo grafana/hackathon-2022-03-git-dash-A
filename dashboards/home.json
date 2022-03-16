@@ -33,8 +33,8 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 8,
-        "w": 12,
+        "h": 16,
+        "w": 13,
         "x": 0,
         "y": 0
       },
@@ -52,18 +52,17 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 8,
+        "h": 9,
         "w": 11,
         "x": 13,
         "y": 0
       },
-      "id": 6,
+      "id": 4,
       "options": {
-        "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n\n\n",
-        "mode": "markdown"
+        "content": "GIT the things\n\n\n\n<h3><a href=\"/g/\">Explore dashboards</a></h3>",
+        "mode": "html"
       },
       "pluginVersion": "8.5.0-pre",
-      "title": "Supported storage engines",
       "type": "text"
     },
     {
@@ -72,17 +71,18 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 20,
-        "w": 13,
-        "x": 0,
-        "y": 8
+        "h": 7,
+        "w": 11,
+        "x": 13,
+        "y": 9
       },
-      "id": 4,
+      "id": 6,
       "options": {
-        "content": "GIT the things\n\n\n\n<h3><a href=\"/g/\">Explore dashboards</a></h3>",
-        "mode": "html"
+        "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n\n\n",
+        "mode": "markdown"
       },
       "pluginVersion": "8.5.0-pre",
+      "title": "Supported storage engines",
       "type": "text"
     }
   ],
