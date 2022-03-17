@@ -33,7 +33,7 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 16,
+        "h": 17,
         "w": 13,
         "x": 0,
         "y": 0
@@ -53,7 +53,7 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 6,
+        "h": 5,
         "w": 11,
         "x": 13,
         "y": 0
@@ -75,15 +75,14 @@
         "h": 5,
         "w": 11,
         "x": 13,
-        "y": 6
+        "y": 5
       },
       "id": 6,
       "options": {
-        "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n* Local Storage (Add to devenv directly!)\n\n\n",
+        "content": "## Supported storage engines\n\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n* Local Storage (Add to devenv directly!)\n\n\n",
         "mode": "markdown"
       },
       "pluginVersion": "8.5.0-pre",
-      "title": "Supported storage engines",
       "type": "text"
     },
     {
@@ -92,10 +91,10 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 5,
+        "h": 7,
         "w": 11,
         "x": 13,
-        "y": 11
+        "y": 10
       },
       "id": 10,
       "options": {
