@@ -53,14 +53,14 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 9,
+        "h": 6,
         "w": 11,
         "x": 13,
         "y": 0
       },
       "id": 4,
       "options": {
-        "content": "GIT the things\n\n\n\n<h3><a href=\"/g/\">Explore dashboards</a></h3>\n\n<h4>Git Repos used in the examples:</h4>\n<ul>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-A\">Repo A</a> is limited to PR Workflows</li>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-B\">Repo B</a> allows for saves/commits</li>\n</ul>\n",
+        "content": "<h1><a href=\"/g/\">Explore dashboards</a></h1>\n\n<h4>Git Repos used in the examples:</h4>\n<ul>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-A\">Repo A</a> is limited to PR Workflows</li>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-B\">Repo B</a> allows for saves/commits</li>\n</ul>\n\n\n",
         "mode": "html"
       },
       "pluginVersion": "8.5.0-pre",
@@ -72,10 +72,10 @@
         "uid": "PD8C576611E62080A"
       },
       "gridPos": {
-        "h": 7,
+        "h": 5,
         "w": 11,
         "x": 13,
-        "y": 9
+        "y": 6
       },
       "id": 6,
       "options": {
@@ -84,6 +84,25 @@
       },
       "pluginVersion": "8.5.0-pre",
       "title": "Supported storage engines",
+      "type": "text"
+    },
+    {
+      "datasource": {
+        "type": "testdata",
+        "uid": "PD8C576611E62080A"
+      },
+      "gridPos": {
+        "h": 5,
+        "w": 11,
+        "x": 13,
+        "y": 11
+      },
+      "id": 10,
+      "options": {
+        "content": "## Try it for yourself\n\nCheckout and run `grafana` using the `git-the-things` branch.\n\nCurrently the storage endpoints are hardcoded. You'll need to create a Github token and set the `GITHUB_AUTH_TOKEN` environment variable.\n\nThe feature flags being used are `panelTitleSearch`, `fileStoreApi`, `storage`",
+        "mode": "markdown"
+      },
+      "pluginVersion": "8.5.0-pre",
       "type": "text"
     }
   ],
