@@ -44,6 +44,7 @@
         "mode": "html"
       },
       "pluginVersion": "8.5.0-pre",
+      "transparent": true,
       "type": "text"
     },
     {
