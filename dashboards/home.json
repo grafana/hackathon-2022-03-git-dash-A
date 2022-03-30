@@ -100,7 +100,7 @@
       },
       "id": 10,
       "options": {
-        "content": "## Try it for yourself\n\nCheckout and run `grafana` using the `git-the-things` branch.\n\nCurrently the storage endpoints are hardcoded. You'll need to create a Github token and set the `GITHUB_AUTH_TOKEN` environment variable.\n\nThe feature flags being used are `panelTitleSearch`, `fileStoreApi`, `storage`",
+        "content": "## Try it for yourself\n\nCheckout and run `grafana` using the `git-the-things` branch.\n\nCurrently the storage endpoints are hardcoded. You'll need to create a Github token and set the `GITHUB_AUTH_TOKEN` environment variable.\n\nThe feature flags being used are `panelTitleSearch, fileStoreApi, storage`",
         "mode": "markdown"
       },
       "pluginVersion": "8.5.0-pre",
