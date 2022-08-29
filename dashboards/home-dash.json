@@ -39,17 +39,18 @@
         "x": 0,
         "y": 0
       },
-      "id": 4,
+      "id": 6,
       "options": {
         "code": {
           "language": "plaintext",
           "showLineNumbers": false,
           "showMiniMap": false
         },
-        "content": "<h1><a href=\"/g/\">Explore dashboards</a></h1>\n\n<h4>Git Repos used in the examples:</h4>\n<ul>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-A\">Repo A</a> is limited to PR Workflows</li>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-B\">Repo B</a> allows for saves/commits</li>\n</ul>\n\n\n",
-        "mode": "html"
+        "content": "\n* SQL (internal)\n* GIT (and github!)\n* Local Storage (Add to devenv directly!)\n\nSoon:\n* GCS\n* S3\n\n",
+        "mode": "markdown"
       },
       "pluginVersion": "9.2.0-pre",
+      "title": "Supported storage engines",
       "type": "text"
     },
     {
@@ -88,18 +89,17 @@
         "x": 0,
         "y": 6
       },
-      "id": 6,
+      "id": 4,
       "options": {
         "code": {
           "language": "plaintext",
           "showLineNumbers": false,
           "showMiniMap": false
         },
-        "content": "\n* SQL (internal)\n* GIT (and github!)\n* Local Storage (Add to devenv directly!)\n\nSoon:\n* GCS\n* S3\n\n",
-        "mode": "markdown"
+        "content": "<h1><a href=\"/g/\">Explore dashboards</a></h1>\n\n<h4>Git Repos used in the examples:</h4>\n<ul>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-A\">Repo A</a> is limited to PR Workflows</li>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-B\">Repo B</a> allows for saves/commits</li>\n</ul>\n\n\n",
+        "mode": "html"
       },
       "pluginVersion": "9.2.0-pre",
-      "title": "Supported storage engines",
       "type": "text"
     },
     {
