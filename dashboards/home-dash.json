@@ -41,10 +41,15 @@
       },
       "id": 8,
       "options": {
-        "content": "<img src=\"https://gogitit.online/lbimages/logo.png\" />",
+        "code": {
+          "language": "plaintext",
+          "showLineNumbers": false,
+          "showMiniMap": false
+        },
+        "content": "<img src=\"https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png\" />",
         "mode": "html"
       },
-      "pluginVersion": "8.5.0-pre",
+      "pluginVersion": "9.2.0-pre",
       "transparent": true,
       "type": "text"
     },
@@ -61,10 +66,15 @@
       },
       "id": 4,
       "options": {
+        "code": {
+          "language": "plaintext",
+          "showLineNumbers": false,
+          "showMiniMap": false
+        },
         "content": "<h1><a href=\"/g/\">Explore dashboards</a></h1>\n\n<h4>Git Repos used in the examples:</h4>\n<ul>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-A\">Repo A</a> is limited to PR Workflows</li>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-B\">Repo B</a> allows for saves/commits</li>\n</ul>\n\n\n",
         "mode": "html"
       },
-      "pluginVersion": "8.5.0-pre",
+      "pluginVersion": "9.2.0-pre",
       "type": "text"
     },
     {
@@ -80,10 +90,15 @@
       },
       "id": 6,
       "options": {
+        "code": {
+          "language": "plaintext",
+          "showLineNumbers": false,
+          "showMiniMap": false
+        },
         "content": "\n* SQL (internal)\n* GIT (and github!)\n* GCS\n* S3\n* Local Storage (Add to devenv directly!)\n\n\n",
         "mode": "markdown"
       },
-      "pluginVersion": "8.5.0-pre",
+      "pluginVersion": "9.2.0-pre",
       "title": "Supported storage engines",
       "type": "text"
     },
@@ -100,15 +115,20 @@
       },
       "id": 10,
       "options": {
+        "code": {
+          "language": "plaintext",
+          "showLineNumbers": false,
+          "showMiniMap": false
+        },
         "content": "## Try it for yourself\n\nCheckout and run `grafana` using the `git-the-things` branch.\n\nCurrently the storage endpoints are hardcoded. You'll need to create a Github token and set the `GITHUB_AUTH_TOKEN` environment variable.\n\nThe feature flags being used are `panelTitleSearch, fileStoreApi, storage`",
         "mode": "markdown"
       },
-      "pluginVersion": "8.5.0-pre",
+      "pluginVersion": "9.2.0-pre",
       "type": "text"
     }
   ],
   "refresh": "",
-  "schemaVersion": 36,
+  "schemaVersion": 37,
   "style": "dark",
   "tags": [],
   "templating": {
@@ -121,7 +141,7 @@
   "timepicker": {},
   "timezone": "",
   "title": "Git the things",
-  "uid": "it-A/home",
+  "uid": "it-A/home-dash.json",
   "version": 0,
   "weekStart": ""
 }
