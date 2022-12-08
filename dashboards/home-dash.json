@@ -49,7 +49,7 @@
         "content": "\n* SQL (internal)\n* GIT (and github!)\n* Local Storage (Add to devenv directly!)\n\nSoon:\n* GCS\n* S3\n\n",
         "mode": "markdown"
       },
-      "pluginVersion": "9.2.0-pre",
+      "pluginVersion": "9.4.0-pre",
       "title": "Supported storage engines",
       "type": "text"
     },
@@ -74,7 +74,7 @@
         "content": "<img src=\"https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png\" />",
         "mode": "html"
       },
-      "pluginVersion": "9.2.0-pre",
+      "pluginVersion": "9.4.0-pre",
       "transparent": true,
       "type": "text"
     },
@@ -99,7 +99,7 @@
         "content": "<h1><a href=\"/g/\">Explore dashboards</a></h1>\n\n<h4>Git Repos used in the examples:</h4>\n<ul>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-A\">Repo A</a> is limited to PR Workflows</li>\n  <li><a href=\"https://github.com/grafana/hackathon-2022-03-git-dash-B\">Repo B</a> allows for saves/commits</li>\n</ul>\n\n\n",
         "mode": "html"
       },
-      "pluginVersion": "9.2.0-pre",
+      "pluginVersion": "9.4.0-pre",
       "type": "text"
     },
     {
@@ -123,7 +123,7 @@
         "content": "## Try it for yourself\n\nCheckout and run `grafana` in dev mode on the main branch.\n\nSet up the feature toggles:\n```\n[feature_toggles]\ntopnav = true\npanelTitleSearch = true\nstorage = true\nexport = true\nscenes = true\ndashboardsFromStorage = true\n```\n\nhttps://docs.google.com/document/d/1oh2sGK0XU1w2-_IBUjKWfg283R0wOGEO5vy_eX50diA/edit\n",
         "mode": "markdown"
       },
-      "pluginVersion": "9.2.0-pre",
+      "pluginVersion": "9.4.0-pre",
       "type": "text"
     }
   ],
@@ -141,7 +141,6 @@
   "timepicker": {},
   "timezone": "",
   "title": "Git the things",
-  "uid": "it-A/home-dash.json",
   "version": 0,
   "weekStart": ""
 }
