@@ -492,8 +492,9 @@
       "type": "candlestick"
     }
   ],
-  "refresh": false,
-  "schemaVersion": 37,
+  "refresh": "",
+  "revision": 1,
+  "schemaVersion": 38,
   "style": "dark",
   "tags": [
     "gdev",
@@ -510,7 +511,6 @@
   "timepicker": {},
   "timezone": "",
   "title": "Grafanacoin",
-  "uid": "content/it-A/grafanacoin-dash.json",
   "version": 2,
   "weekStart": ""
 }
