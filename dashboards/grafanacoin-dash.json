@@ -493,7 +493,8 @@
     }
   ],
   "refresh": false,
-  "schemaVersion": 37,
+  "revision": 1,
+  "schemaVersion": 38,
   "style": "dark",
   "tags": [
     "gdev",
@@ -504,13 +505,12 @@
     "list": []
   },
   "time": {
-    "from": "2021-07-13T22:13:30.740Z",
-    "to": "2021-07-13T22:46:18.921Z"
+    "from": "2021-07-13T17:00:00.000Z",
+    "to": "2021-07-14T10:30:00.000Z"
   },
   "timepicker": {},
   "timezone": "",
   "title": "Grafanacoin",
-  "uid": "content/it-A/grafanacoin-dash.json",
   "version": 2,
   "weekStart": ""
 }
